@@ -1,2 +1,2 @@
 # QtCourse
-Repositório dedicado aos códigos proprietários criados durante a execução do curso "Qt 5 C++ GUI Development For Beginners : The Fundamentals" da udemy.
+Repositório dedicado aos códigos proprietários criados no estudo da framework Qt nas diversas linguagens suportadas.

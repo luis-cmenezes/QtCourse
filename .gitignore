@@ -1,2 +1,5 @@
 build*/
 PyQt/pyqt5-source
+__pycache__/
+PyQt/data-visualization/trajectory.txt
+PyQt/data-visualization/retI-retV-rmsI-rmsV-heatInput-T.txt
