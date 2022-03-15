@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="closeImage">
+    <file>cil-x.png</file>
+  </qresource>
+  <qresource prefix="avatar">
+    <file>avatar.png</file>
+  </qresource>
+  <qresource prefix="logo-resized">
+    <file>logo.png</file>
+  </qresource>
+</RCC>
